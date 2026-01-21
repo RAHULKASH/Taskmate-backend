@@ -1,7 +1,7 @@
 {
   "name": "todo-backend",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "Connection/server.js",
   "scripts": {
     "start": "node Connection/server.js",
     "dev": "nodemon Connection/server.js"
